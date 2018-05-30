@@ -1,0 +1,8 @@
+{
+  "env": {
+    "rpc": {
+      "testnet": "xxxxxx",
+      "mainnet": "xxxxxx"
+    }
+  }
+}
