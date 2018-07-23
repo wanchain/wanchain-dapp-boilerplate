@@ -10,8 +10,3 @@ web3 = new Web3(); // settings.json
 // web3 = new Web3(new Web3.providers.HttpProvider(rpcAddr)); // settings.json
 //
 // });
-
-// web3 = new Web3(new Web3.providers.HttpProvider("http://159.89.159.139:8546")); // mainnet
-
-
-
